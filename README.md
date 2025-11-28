@@ -13,10 +13,15 @@ This is where I am going to start setting up my environment to play around with 
   - [ ] Remove the indicator that shows changes to the file in the gutter
 - [ ] Add _data_ to the `assets` folder
   - [ ] text files
-    - [ ] ff7 guides
-      - [ ] Battle Mechanics
-      - [ ] Enemy Mechanics
-      - [ ] Party Mechanics
+    - [x] ff7 guides
+      - [x] Battle Mechanics
+      - [x] Enemy Mechanics
+      - [x] Party Mechanics
+    - [ ] Empty Text File
+  - [ ] Add CSV files
+    - [ ] Add empty CSV
+  - [ ] Add json files
+    - [ ] Add empty file
 
 ![sailor moon GIF](https://media2.giphy.com/media/26gBjmGEsrFQlj8g8/giphy.gif)
 
