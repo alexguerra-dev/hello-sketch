@@ -4,7 +4,7 @@
     "trailingComma": "all",
     "tabWidth": 4,
     "useTabs": false,
-    "printWidth": 80,
+    "printWidth": 120,
     "editor.formatOnSave": true,
     "overrides": [
         {
